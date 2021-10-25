@@ -19,13 +19,13 @@ let canvasHeight=1000;
 
 function preload() {
   // preload() runs once
-  img1 = loadImage("Untitled_Artwork 4.png");
-  img2 = loadImage("Untitled_Artwork 5.png");
-  img3 = loadImage("Untitled_Artwork 6.png");
-  img4 = loadImage("Art_103 2.png");
+  img1 = loadImage("logo.png");
+  img2 = loadImage("sloth.png");
+  img3 = loadImage("wedding.png");
+  img4 = loadImage("girlAndCat.png");
   img5 = loadImage("Uyen_Huynh_Gif1.gif");
-  img6 = loadImage("Untitled_Artwork 7.png");
-  img7 = loadImage("Untitled_Artwork 8.png");
+  img6 = loadImage("summerTime.png");
+  img7 = loadImage("sisters.png");
   img8 = loadImage("Egg(s).png");
 }
 function setUpPolaroid() {
